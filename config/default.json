@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "gtek diplom",
+    "mongoUri": "mongodb+srv://Daniil:GTEK123@cluster0.uh8gc.mongodb.net/CutLink?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
